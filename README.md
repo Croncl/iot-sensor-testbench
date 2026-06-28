@@ -1,5 +1,3 @@
----
-
 ## 📄 README PRINCIPAL (raiz do repositório)
 
 ```markdown
