@@ -51,7 +51,7 @@ Este repositório é meu laboratório pessoal para testar e entender o funcionam
 
 ## 🗂️ Estrutura do Repositório
 
-```
+```plaintext
 esp32-sensor-lab/
 ├── sensors/
 │   ├── 01-pn5180-nfc/
