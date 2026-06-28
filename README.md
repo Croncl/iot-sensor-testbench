@@ -1,4 +1,4 @@
-## 📄 README PRINCIPAL (raiz do repositório)
+## 📄 README PRINCIPAL
 
 ```markdown
 # 🔬 ESP32 Sensor Lab
